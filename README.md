@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @0xgb1. I upload small and fun projects here.
-- 👀 I’m interested in FOSS and Rust-based projects
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in FOSS, Rust-based projects, and cryptography
+- 🌱 I’m currently learning too many things
+- 💞️ I’m looking to collaborate on anything related to cryptography, operating systems, or Rust
 - 📫 How to reach me ...
 
 <!---
